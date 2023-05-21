@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://twitter.com/augustine_edeh" target="blank"><img src="https://img.shields.io/twitter/follow/augustine_edeh?logo=twitter&style=for-the-badge" alt="augustine_edeh" /></a> </p>
 
-- 🔭 I’m currently working on [A Simple Dynamic Calculator Project](https://augustine-edeh.github.io/Dynamic-Calculator-Web-app/)
+- 🔭 I’m currently working on [GoCountry](https://augustine-edeh.github.io/GoCountry/)
 
 - 🌱 I’m currently learning **React.js**
 
