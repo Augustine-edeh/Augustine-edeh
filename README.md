@@ -33,7 +33,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Front-End Development and anything Tech**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, React.js Front-End Development and anything Tech**
 
 - 📫 How to reach me **Info.augustinesedeh@gmail.com**
 
