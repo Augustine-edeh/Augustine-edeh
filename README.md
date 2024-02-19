@@ -27,13 +27,13 @@
 
 <p align="left"> <a href="https://twitter.com/augustine_edeh" target="blank"><img src="https://img.shields.io/twitter/follow/augustine_edeh?logo=twitter&style=for-the-badge" alt="augustine_edeh" /></a> </p>
 
-- 🔭 I’m currently working on [Country-Pedia](https://countries-at-a-glance.vercel.app/)
+- 🔭 I’m currently working on [my nephew's portfolio webpage](https://damilareai.vercel.app/)
 
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, React.js Front-End Development and anything Tech**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind-CSS, reactJS, Front-End Development and anything Tech**
 
 - 📫 How to reach me **Info.augustinesedeh@gmail.com**
 
