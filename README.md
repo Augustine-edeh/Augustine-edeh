@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augustine Edeh</h1>
-<h3 align="center">An advancing frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A Frontend developer from Lagos, Nigeria</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding image" width="500">
 
 
@@ -27,17 +27,17 @@
 
 <p align="left"> <a href="https://twitter.com/augustine_edeh" target="blank"><img src="https://img.shields.io/twitter/follow/augustine_edeh?logo=twitter&style=for-the-badge" alt="augustine_edeh" /></a> </p>
 
-- 🔭 I’m currently working on [my nephew's portfolio webpage](https://damilareai.vercel.app/)
+- 🔭 I’m currently working on [MyTodoly](https://mytodoly.vercel.app)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **NodeJs for backend Development**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind-CSS, reactJS, Front-End Development and anything Tech**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, TailwindCSS, reactJs, nextJs,  Front-End Development and anything Tech**
 
 - 📫 How to reach me **Info.augustinesedeh@gmail.com**
 
-- ⚡ Fun fact **I'm quite a reserved person than an introvert. I enjoy writing code**
+- ⚡ Fun fact **I'm quite reserved a person than I am an introvert. I enjoy writing code**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
