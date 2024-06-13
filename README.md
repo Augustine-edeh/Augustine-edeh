@@ -27,7 +27,10 @@
 
 <p align="left"> <a href="https://twitter.com/augustine_edeh" target="blank"><img src="https://img.shields.io/twitter/follow/augustine_edeh?logo=twitter&style=for-the-badge" alt="augustine_edeh" /></a> </p>
 
+- 💼 [My Portfolio](https://augustines.vercel.app) 
+
 - 🔭 I’m currently working on [MyTodoly](https://mytodoly.vercel.app)
+
 
 - 🌱 I’m currently learning **NodeJs for backend Development**
 
